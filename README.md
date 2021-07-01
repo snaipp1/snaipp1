@@ -25,4 +25,7 @@
 
 **Follow me**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snaipp1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/yury-halushko-83728a10b//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/yury.galushko.5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codewars.svg' alt='codewars' height='40'>](https://www.codewars.com/users/YuryH)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/https://www.linkedin.com/in/yury-halushko-83728a10b/)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=007BB6)](https://www.facebook.com/https://www.facebook.com/yury.galushko.5)
+[![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=c76395)](https://www.codewars.com/users/YuryH)
+
