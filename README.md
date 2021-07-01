@@ -1,9 +1,6 @@
 
 ![Hello! My name is Yury!](https://github.com/snaipp1/snaipp1/blob/main/assets/images/header.png)
 
-**About me**
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaipp1&layout=compact)](https://github.com/snaipp1/github-readme-stats)
 
 
 **Languages and Tools**
@@ -23,6 +20,8 @@
 ![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-090909?style=for-the-badge&logo=postgresql&logoColor=dae7f3)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongoDb&logoColor=8cc84b)
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaipp1&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff)](https://github.com/snaipp1/github-readme-stats)
 
 **Follow me**
 
