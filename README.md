@@ -5,20 +5,24 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaipp1&layout=compact)](https://github.com/snaipp1/github-readme-stats)
 
-**Languages and Tools**
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
-![Nodejs](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js&logoColor=8cc84b)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=48cef7)
-![ReactNative](https://img.shields.io/badge/-React_Native-090909?style=for-the-badge&logo=react&logoColor=48cef7)
-![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=dae7f3)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongoDb&logoColor=8cc84b)
+**Languages and Tools**
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E9D54D)
 ![CSS3](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=438bc3)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-the-badge&logo=SASS&logoColor=c76395)
 ![GULP](https://img.shields.io/badge/-GULP-090909?style=for-the-badge&logo=gulp&logoColor=c76395)
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-090909?style=for-the-badge&logo=webpack&logoColor=48cef7)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
+![Nodejs](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js&logoColor=8cc84b)
+![Expressjs](https://img.shields.io/badge/-Expressjs-090909?style=for-the-badge&logo=Express&logoColor=dae7f3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=48cef7)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=48cef7)
+![ReactNative](https://img.shields.io/badge/-React_Native-090909?style=for-the-badge&logo=react&logoColor=48cef7)
+![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=dae7f3)
+![POSTGRESQL](https://img.shields.io/badge/-POSTGRESQL-090909?style=for-the-badge&logo=postgresql&logoColor=dae7f3)
+![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongoDb&logoColor=8cc84b)
+
 
 **Follow me**
 
