@@ -13,7 +13,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-090909?style=for-the-badge&logo=Node.js&logoColor=8cc84b)
 ![Expressjs](https://img.shields.io/badge/-Expressjs-090909?style=for-the-badge&logo=Express&logoColor=dae7f3)
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=48cef7)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=48cef7)
 ![ReactNative](https://img.shields.io/badge/-React_Native-090909?style=for-the-badge&logo=react&logoColor=48cef7)
 ![MySQL](https://img.shields.io/badge/-MySQL-090909?style=for-the-badge&logo=mysql&logoColor=dae7f3)
@@ -25,7 +24,7 @@
 
 **Follow me**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/https://www.linkedin.com/in/yury-halushko-83728a10b/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yury-halushko-83728a10b/)
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=007BB6)](https://www.facebook.com/https://www.facebook.com/yury.galushko.5)
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=c76395)](https://www.codewars.com/users/YuryH)
 
