@@ -25,6 +25,6 @@
 **Follow me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yury-halushko-83728a10b/)
-[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=007BB6)](https://www.facebook.com/https://www.facebook.com/yury.galushko.5)
+[![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=007BB6)](https://www.facebook.com/yury.galushko.5)
 [![Codewars](https://img.shields.io/badge/-Codewars-090909?style=for-the-badge&logo=codewars&logoColor=c76395)](https://www.codewars.com/users/YuryH)
 
