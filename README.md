@@ -20,8 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongoDb&logoColor=8cc84b)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snaipp1&layout=compact&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff)](https://github.com/snaipp1/github-readme-stats)
-
 **Follow me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/yury-halushko-83728a10b/)
