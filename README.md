@@ -1,8 +1,4 @@
 
-![Hello! My name is Yury!](https://github.com/snaipp1/snaipp1/blob/main/assets/images/header.png)
-
-
-
 **Languages and Tools**
 
 ![HTML5](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5&logoColor=E9D54D)
